@@ -1,3 +1,3 @@
 # NupurPratical
 
-This Is CLoud Pratical Done By Nupur khadgi
+This Is SPM Pratical Done By Nupur khadgi
